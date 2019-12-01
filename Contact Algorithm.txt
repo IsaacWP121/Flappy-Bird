@@ -1,0 +1,20 @@
+if... 
+
+{
+x+w > x2
+x+w < x2+w2
+y < y2+h2
+}
+
+or
+
+{
+x > x2 
+x < x2+w2
+y < y2+h2
+}
+
+then display "Touching"
+
+x, y, w, h are the x, y width and height of rectangle 1
+x2, y2, w2, h2 are the x, y, width and height of rectangle 2
